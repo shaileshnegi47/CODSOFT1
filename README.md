@@ -1,1 +1,2 @@
 # CODSOFT1
+A Student Grade Calculator is a tool or application designed to help calculate and display a student's overall grade based on individual subject scores. It is typically used by students, teachers, or educational institutions to assess and track academic performance. The calculator simplifies the process of determining final grades by taking multiple scores (e.g., for assignments, exams, or projects) and calculating an average, GPA, or final letter grade according to predefined criteria.
